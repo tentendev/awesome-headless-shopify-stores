@@ -375,3 +375,52 @@ Thanks to all the brands pioneering headless commerce and the agencies building 
 📢 **Have a suggestion?** Open an issue or submit a PR.
 
 🔗 **Share this list:** Help others discover headless Shopify stores!
+
+---
+
+## 🚀 Ready to Go Headless?
+
+<p align="center">
+  <a href="https://tenten.co">
+    <img src="https://img.shields.io/badge/Built%20by-Tenten-black?style=for-the-badge" alt="Built by Tenten">
+  </a>
+</p>
+
+### Build Your Headless Shopify Store with Tenten
+
+Looking to transform your Shopify store with a headless architecture? **[Tenten](https://tenten.co)** specializes in crafting high-performance, beautifully designed headless Shopify experiences.
+
+#### What We Offer
+
+| Service | Description |
+|---------|-------------|
+| 🎨 **Headless Design** | Custom UI/UX design that breaks free from template limitations |
+| ⚡ **Hydrogen Development** | Expert implementation using Shopify's latest framework |
+| 🔄 **Migration Services** | Seamless transition from traditional Shopify to headless |
+| 🛠️ **Custom Integrations** | Connect your store with any CMS, ERP, or third-party service |
+| 📈 **Performance Optimization** | Lightning-fast load times and Core Web Vitals optimization |
+| 🌍 **International Expansion** | Multi-language, multi-currency headless storefronts |
+
+#### Why Choose Tenten?
+
+- ✅ **Proven Expertise** - Deep experience with Shopify Plus & Hydrogen
+- ✅ **End-to-End Solutions** - From strategy to design to development
+- ✅ **Performance-First** - We build stores that convert
+- ✅ **Ongoing Support** - Long-term partnership for continuous improvement
+
+---
+
+<p align="center">
+  <b>Ready to elevate your e-commerce experience?</b>
+</p>
+
+<p align="center">
+  <a href="https://tenten.co/contact">
+    <img src="https://img.shields.io/badge/Get%20Started-Schedule%20a%20Call-blue?style=for-the-badge" alt="Schedule a Call">
+  </a>
+</p>
+
+<p align="center">
+  🌐 <a href="https://tenten.co"><b>tenten.co</b></a> ・ 
+  📧 <a href="mailto:inquiry@tenten.co">inquiry@tenten.co</a>
+</p>
